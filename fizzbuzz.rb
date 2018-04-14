@@ -1,3 +1,2 @@
-def fizzbuzz(three)
-expect(fizz_3).to eq("Fizz")
+def fizz_3
 end
