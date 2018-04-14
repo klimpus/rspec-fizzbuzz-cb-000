@@ -1,3 +1,3 @@
-def fizzbuzz(three)
+def fizz(three)
 
 end
