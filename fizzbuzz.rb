@@ -1,2 +1,2 @@
-def fizz_3
+def fizzbuzz
 end
